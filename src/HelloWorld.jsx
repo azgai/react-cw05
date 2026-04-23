@@ -5,7 +5,7 @@ class HelloWorld extends Component {
         return (
             <div>
                 <h1>Hello, World!</h1>
-                <p>This is my first React component.</p>
+                <p>Welcome to my React component.</p>
             </div>
         );
     }

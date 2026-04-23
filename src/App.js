@@ -3,7 +3,7 @@ import HelloWorld from "./HelloWorld";
 import Counter from "./Counter";
 import List from "./List";
 import FilteredList from "./FilteredList";
-
+import "./App.css";
 function App() {
   const simpleList = ["Apple", "Banana", "Carrot"];
 
